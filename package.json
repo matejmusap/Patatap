@@ -1,0 +1,16 @@
+{
+  "name": "patatap",
+  "version": "1.0.0",
+  "description": "\"# Patatap\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matej Musap",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "howler": "^2.0.15",
+    "paper": "^0.11.5"
+  }
+}
